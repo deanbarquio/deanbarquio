@@ -93,7 +93,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/dean-lourence-barquio-644b08315/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -111,7 +111,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/31m2q7qe5hails5lmf2chvnhfocm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31m2q7qe5hails5lmf2chvnhfocm&count=3&unique=true" alt="Spotify recently played"  />
   </a>
