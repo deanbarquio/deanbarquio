@@ -20,7 +20,7 @@
 
 <p align="left">✨ Creating bugs since: 2021 (but fixing them just as fast!)<br>📚 I'm currently learning: Docker, Kubernetes, and advanced algorithms<br>🎯 Goals: Contribute to impactful open-source projects and become a cloud computing expert<br>🎲 Fun fact: walay fun kay ga capstone</p>
 
-###Add new codes
+###
 
 <h2 align="left">I code with</h2>
 
