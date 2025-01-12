@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hi there! I’m Dean – a passionate TBA with a love for project management and creating innovative solutions. 🚀</p>
+<p align="left">Hi there! I’m Dean, a passionate TBA with a love for project management and creating innovative solutions. 🚀</p>
 
 ###
 
