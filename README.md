@@ -108,10 +108,10 @@
 
 <br clear="both">
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://open.spotify.com/user/31m2q7qe5hails5lmf2chvnhfocm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31m2q7qe5hails5lmf2chvnhfocm&count=3&unique=true" alt="Spotify recently played"  />
   </a>
-</div>
+</div> -->
 
 ###
